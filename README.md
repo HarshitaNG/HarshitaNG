@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshita Guled
+# 👋 Hi, I'm Harshita
 
 ### AI & Generative AI Developer | Machine Learning | Full-Stack Development
 
