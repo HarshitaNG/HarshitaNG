@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshita
+# Hii.., I'm Harshita
 
 ### AI & Generative AI Developer | Machine Learning | 
 
@@ -7,7 +7,7 @@
 </p>
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm an **AI & Generative AI Developer** passionate about building practical
 AI solutions using **Machine Learning, Generative AI, RAG, and Cloud AI**.
@@ -16,13 +16,13 @@ applications.
 
 ---
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 > "The best way to predict the future is to build it."
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -52,12 +52,12 @@ applications.
 
 ---
 
-## ☁️ AI & Cloud
+## AI & Cloud
 
 `Azure AI` • `Azure AI Foundry` • `Azure Machine Learning`
 • `Azure OpenAI` • `Vertex AI` • `AWS`
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
 
