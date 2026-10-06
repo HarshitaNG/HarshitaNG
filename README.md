@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshita Nagaraj Guled
+# Heyyaa 👋, I'm Harshita Nagaraj Guled
 
 ### AI & Generative AI Developer | Machine Learning | 
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/">https://in.linkedin.com/in/harshita-nagaraj-guled-bb201a204</a> •
   <a href="https://github.com/">GitHub</a> •
   <a href="mailto:your-email@example.com">Email</a>
 </p>
