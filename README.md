@@ -3,11 +3,8 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="" width="100%" />
+  <img src="./assets/profile.gif" width="100%" alt="Harshita's AI profile">
 </p>
-
-![image alt](C:\Users\342532\Downloads\vecteezy_ai-generated-cat-in-kitchen-with-pot-and-cup-in-the-style_35644727.mp4)
-
 ---
 
 ## 👩‍💻 About Me
