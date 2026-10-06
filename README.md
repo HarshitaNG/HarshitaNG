@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harshita Guled
+# Hi 👋, I'm Harshita Nagaraj Guled
 
 ### AI & Generative AI Developer | Machine Learning | 
 
