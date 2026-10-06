@@ -3,7 +3,7 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="./assets/profile.gif" width="100%" alt="Harshita's AI profile">
+  <img src="https://github.com/user-attachments/assets/a8cac532-f418-4177-ad50-1aea3b5cc9d5" width="100%" alt="Harshita's AI profile">
 </p>
 ---
 
