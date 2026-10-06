@@ -1,121 +1,77 @@
-# Heyyaa 👋, I'm Harshita Nagaraj Guled
+# 👋 Hi, I'm Harshita Guled
 
-### AI & Generative AI Developer | Machine Learning | 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Building%20Intelligent%20Solutions&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+### AI & Generative AI Developer | Machine Learning | Full-Stack Development
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/profile.png" 
-       alt="Harshita Guled" width="180" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/">https://in.linkedin.com/in/harshita-nagaraj-guled-bb201a204</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <img src="C:\Users\342532\Downloads\img-logo.jpg" width="100%" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm an **AI and Generative AI Developer** passionate about building practical,
-intelligent solutions using Machine Learning, Generative AI, and modern
-cloud technologies.
-
-I enjoy working on projects that combine **AI, automation, data, and
-user-friendly applications**, while continuously exploring emerging
-technologies in the AI ecosystem.
-
-- 🤖 Generative AI & Agentic AI
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ☁️ Azure AI & Cloud AI
-- 🧠 Machine Learning & Deep Learning
-- 🔗 AI Agents & Workflow Automation
-- 🌐 Full-Stack Development
-- 📊 Data Processing & Analysis
+I'm an **AI & Generative AI Developer** passionate about building practical
+AI solutions using **Machine Learning, Generative AI, RAG, and Cloud AI**.
+I enjoy exploring new technologies and turning ideas into real-world
+applications.
 
 ---
 
-## 💡 Developer Quote
+## 💭 Random Dev Quote
 
 > "The best way to predict the future is to build it."
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,react,nodejs,tensorflow,opencv,git,github,vscode,aws,azure,gcp" />
+
 </p>
 
-### 🤖 AI / Machine Learning
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 </p>
 
-**Technologies:**  
-`Scikit-learn` • `NumPy` • `Pandas` • `TensorFlow` • `Keras` • `OpenCV`
+<p align="center">
 
-### ✨ Generative AI
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=huggingface" />
 </p>
-
-**Technologies:**  
-`Generative AI` • `Agentic AI` • `RAG` • `LangChain` • `CrewAI`  
-`OpenAI` • `Hugging Face` • `Vector Embeddings` • `MCP`
-
-### ☁️ Cloud & AI Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp" />
-</p>
-
-**Technologies:**  
-`Azure AI` • `Azure OpenAI` • `Azure AI Foundry`  
-`Azure Machine Learning` • `Vertex AI` • `Azure ML Workspace`
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
-</p>
-
-**Technologies:**  
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Streamlit`
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`MySQL`
-
-### ⚙️ Developer & Automation Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,googlecolab" />
-</p>
-
-`Git` • `GitHub` • `VS Code` • `Google Colab` • `Power Automate`
 
 ---
 
-# 📈 Areas I'm Exploring
+## ☁️ AI & Cloud
 
-```text
-Generative AI
-     ↓
-Agentic AI → AI Agents → MCP
-     ↓
-RAG → Vector Embeddings → Enterprise Search
-     ↓
-Azure AI → Azure OpenAI → AI Deployment
-     ↓
-Evaluation → Observability → Responsible AI
+`Azure AI` • `Azure AI Foundry` • `Azure Machine Learning`
+• `Azure OpenAI` • `Vertex AI` • `AWS`
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="harshitang59@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
