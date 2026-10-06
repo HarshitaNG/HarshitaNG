@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshita
 
-### AI & Generative AI Developer | Machine Learning | Full-Stack Development
+### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
   <img src="C:\Users\342532\Downloads\img-logo.jpg" width="100%" />
@@ -62,7 +62,7 @@ applications.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/harshita-nagaraj-guled-bb201a204">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -70,7 +70,7 @@ applications.
 <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/HarshitaNG">
 <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
