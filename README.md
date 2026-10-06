@@ -3,9 +3,8 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="" width="100%" alt="Harshita's AI profile">
+  <img src="./Dev-Dreams.jpg" width="100%" alt="Dev Dreams">
 </p>
-
 
 ## About Me
 
