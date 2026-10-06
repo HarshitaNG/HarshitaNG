@@ -3,8 +3,10 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="img-logo-jpg" width="100%" />
+  <img src="" width="100%" />
 </p>
+
+![image alt](C:\Users\342532\Downloads\vecteezy_ai-generated-cat-in-kitchen-with-pot-and-cup-in-the-style_35644727.mp4)
 
 ---
 
