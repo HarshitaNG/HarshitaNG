@@ -107,37 +107,6 @@ technologies in the AI ecosystem.
 
 ---
 
-# 🚀 Featured Projects
-
-## 📡 Telecom AI — Intelligent Standards Management
-
-AI-powered platform for centralized telecom standards management with
-automated document validation, SharePoint synchronization, 3GPP version
-monitoring, and an AI assistant.
-
-**Tech:** `Azure AI` `LangChain` `MCP` `RAG` `Vector Embeddings`
-`SharePoint` `Power Automate`
-
----
-
-## 🤖 iAgentOps — Agent Observability
-
-Contributed to a Proof-of-Concept for **iAgentOps**, focusing on operational
-metrics for AI agents including **accuracy, latency, cost, and user
-satisfaction** to improve agent performance and reliability.
-
-**Tech:** `Generative AI` `Agentic AI` `LLM Evaluation` `Observability`
-
----
-
-## ✂️ Smart Tailoring AI
-
-AI-powered application exploring computer vision and intelligent
-measurements to support a virtual tailoring experience.
-
-**Tech:** `Python` `OpenCV` `Machine Learning` `Computer Vision`
-
-
 # 📈 Areas I'm Exploring
 
 ```text
