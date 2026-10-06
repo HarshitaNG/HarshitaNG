@@ -3,7 +3,7 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="C:\Users\342532\Downloads\img-logo.jpg" width="100%" />
+  <img src="img-logo-jpg" width="100%" />
 </p>
 
 ---
