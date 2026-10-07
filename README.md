@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Heyya  I'm Harshita</h1>
----
 
 ## About Me
 
