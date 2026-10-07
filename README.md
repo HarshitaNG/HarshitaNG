@@ -3,7 +3,7 @@
 ### AI & Generative AI Developer | Machine Learning | 
 
 <p align="center">
-  <img src="./pixel-art.jpg" width="100%" alt="Dev Dreams">
+  <img src="" width="100%" alt="Dev Dreams">
 </p>
 
 ## About Me
