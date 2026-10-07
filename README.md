@@ -2,7 +2,9 @@
   <img src="./cover.gif" width="700" height="350" alt="Harshita - AI & Generative AI Developer">
 </p>
 
-<h1 align="center">Heyya  I'm Harshita</h1>
+<h1 align="center">
+  𝐇𝐞𝐲𝐲𝐚, 𝐈'𝐦 𝐇𝐚𝐫𝐬𝐡𝐢𝐭𝐚 
+</h1>
 
 ## About Me
 
