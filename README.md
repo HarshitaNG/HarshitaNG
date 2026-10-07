@@ -1,11 +1,8 @@
 # Hii.., I'm Harshita
 
-### AI & Generative AI Developer | Machine Learning | 
-
 <p align="center">
-  <img src="" width="100%" alt="Dev Dreams">
+  <img src="./cover.gif" width="100%" alt="Dev Dreams">
 </p>
-
 ## About Me
 
 I'm an **AI & Generative AI Developer** passionate about building practical
