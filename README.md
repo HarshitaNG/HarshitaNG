@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="./cover.gif" width="700" height="250" alt="Harshita - AI & Generative AI Developer">
+  <img src="./cover.gif" width="700" height="350" alt="Harshita - AI & Generative AI Developer">
 </p>
 
 <h1 align="center">Heyya  I'm Harshita</h1>
-
-<p align="center">
-  <b>AI & Generative AI Developer | Machine Learning | Cloud </b>
-</p>
-
 ---
 
 ## About Me
