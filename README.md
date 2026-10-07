@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.gif" width="100%" alt="Harshita - AI & Generative AI Developer">
+  <img src="./cover.gif" width="500" alt="Harshita - AI & Generative AI Developer">
 </p>
 
 <h1 align="center">Heyya  I'm Harshita</h1>
