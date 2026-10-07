@@ -1,14 +1,8 @@
 # Hi, I'm Harshita
 
 <p align="center">
-  <img src="./cover.gif" width="800" alt="Dev Dreams">
+  <img src="./cover.gif" width="700" alt="Dev Dreams">
 </p>
-
-<p align="center">
-  <b>AI & Generative AI Developer | Machine Learning | Cloud AI</b>
-</p>
-
----
 
 ## About Me
 
